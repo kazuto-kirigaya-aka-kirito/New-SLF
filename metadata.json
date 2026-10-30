@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria Frontier - SLF World Building & Mecha Chronicles",
+  "description": "An action-adventure world building RPG inspired by Shangri-La Frontier. Start as a humble Villager, Merchant, or Fisherman, discover unique player quests, battle ranked monsters up to SSS-rank Colossi, unlock specialized jobs, pilot tactical mechas, and build your frontier realm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
